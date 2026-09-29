@@ -1,0 +1,12 @@
+{
+  "password": "SL2024",
+  "vault_pw_hash": "766810d2bfe0fdc9ee16adbaea59f1d1ac4cef1983b49c82f12f1f8f869b7690",
+  "notif_min": 15,
+  "pomo_work": 25,
+  "pomo_break": 5,
+  "block_sites": true,
+  "dl_path": "",
+  "ai_api_key": "",
+  "ai_model": "claude-haiku-4-5-20251001",
+  "track_apps": true
+}
